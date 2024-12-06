@@ -4,6 +4,8 @@ import pandas as pd
 from pydantic import BaseModel #data validation library
 #use litserve to get parallel requests https://lightning.ai/docs/litserve/home
 
+#https://codecut.ai/simplifying-ml-model-integration-with-fastapi/
+
 # Create a FastAPI application instance
 app = FastAPI()
 
